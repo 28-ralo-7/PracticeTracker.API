@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTracker.API", "PracticeTracker.API\PracticeTracker.API.csproj", "{C5CE1359-E7CF-46A1-85A1-6D8B6061D354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTracker.Domain", "PracticeTracker.Domain\PracticeTracker.Domain.csproj", "{9B4491C3-0FEE-455F-AC78-78587266C96A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTracker.Services", "PracticeTracker.Services\PracticeTracker.Services.csproj", "{26FFDA24-C0C9-4C53-9C8D-D5691326DA92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CE1359-E7CF-46A1-85A1-6D8B6061D354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CE1359-E7CF-46A1-85A1-6D8B6061D354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CE1359-E7CF-46A1-85A1-6D8B6061D354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CE1359-E7CF-46A1-85A1-6D8B6061D354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4491C3-0FEE-455F-AC78-78587266C96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4491C3-0FEE-455F-AC78-78587266C96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4491C3-0FEE-455F-AC78-78587266C96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4491C3-0FEE-455F-AC78-78587266C96A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FFDA24-C0C9-4C53-9C8D-D5691326DA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FFDA24-C0C9-4C53-9C8D-D5691326DA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FFDA24-C0C9-4C53-9C8D-D5691326DA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FFDA24-C0C9-4C53-9C8D-D5691326DA92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

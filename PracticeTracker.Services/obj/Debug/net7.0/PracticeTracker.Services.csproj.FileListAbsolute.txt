@@ -1,0 +1,15 @@
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\bin\Debug\net7.0\PracticeTracker.Services.deps.json
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\bin\Debug\net7.0\PracticeTracker.Services.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\bin\Debug\net7.0\PracticeTracker.Services.pdb
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\bin\Debug\net7.0\PracticeTracker.Domain.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\bin\Debug\net7.0\PracticeTracker.Domain.pdb
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.csproj.AssemblyReference.cache
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.AssemblyInfoInputs.cache
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.AssemblyInfo.cs
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.csproj.CoreCompileInputs.cache
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.csproj.CopyComplete
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\refint\PracticeTracker.Services.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\PracticeTracker.Services.pdb
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Services\obj\Debug\net7.0\ref\PracticeTracker.Services.dll
