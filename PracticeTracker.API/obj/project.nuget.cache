@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HY3umpFxZnmJoVY52Kl+bEGGGTPynWkkWYajSnxWnFRHO/2C8V86hkY3Gg1TBEqg9OpBSuRA2oBaXTLluZpvfw==",
+  "dgSpecHash": "pFJLD9CPXKb3ZGMnuPZvgM5NgcCQvPPVyQeVswbC2B7BOtdbn0Tp7lsVcv3Hm0rPZQF7yUuy7AnXYmFII/h/bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ДИ\\Desktop\\PracticeTracker.API\\PracticeTracker.API\\PracticeTracker.API.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,11 @@
     "C:\\Users\\ДИ\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\ДИ\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
     "C:\\Users\\ДИ\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
-    "C:\\Users\\ДИ\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "C:\\Users\\ДИ\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

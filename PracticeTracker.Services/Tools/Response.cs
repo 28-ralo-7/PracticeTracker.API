@@ -2,7 +2,7 @@ namespace PracticeTracker.Services.Tools;
 
 public class Response
 {
-    private List<Error> Errors { get; set; }
+    public List<Error> Errors { get; set; }
 
     public Boolean IsSuccess => Errors.Count == 0;
 	public Boolean IsFailed => Errors.Count > 0;

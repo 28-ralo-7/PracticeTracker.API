@@ -33,20 +33,35 @@ public class AuthorizationService : IAuthorizationService
         {
             String passwordHash = PasswordTools.GetPasswordHash(passwordTrimmed);
             UserDB userDb = _authorizationRepository.GetByLoginAndPasswordHash(loginTrimmed, passwordHash);
-            RoleDB role = _authorizationRepository.GetRoleById(userDb.RoleID);
 
-            var claims = new List<Claim>
+            if (userDb.ID != null)
             {
-                new Claim(ClaimTypes.Name, userDb.Login),
-                new Claim(ClaimTypes.Role, role.Type)
-            };
-            var claimsIdentity = new ClaimsIdentity(claims, "Cookie");
-            var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+                RoleDB role = _authorizationRepository.GetRoleById(userDb.RoleID);
 
-            
-            response = Response.Success(claimsPrincipal);
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, ByteArrayToString(userDb.ID)),
+                    new Claim(ClaimTypes.Role, role.Type)
+                };
+                var claimsIdentity = new ClaimsIdentity(claims, "Cookie");
+                var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+
+                response = Response.Success(claimsPrincipal);
+            }
+            else
+            {
+                response.AddError(new Error("Неверный логин или пароль"));
+            }
+
         }
 
         return response;
     }
+
+    public static String ByteArrayToString(Byte[] bytes)
+    {
+        String hex = BitConverter.ToString(bytes);
+        return hex.Replace("-", "");
+    }
+
 }

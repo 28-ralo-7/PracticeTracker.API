@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticeTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5402b097fb7a09383e5f2dcb4dbac7792a293a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticeTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticeTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

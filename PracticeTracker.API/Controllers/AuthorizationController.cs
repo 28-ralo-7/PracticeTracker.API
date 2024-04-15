@@ -23,16 +23,16 @@ public class AuthorizationController : ControllerBase
     public async Task<Response> Authorize(String login, String password)
     {
         Response response = _authorizationService.AuthorizeByLoginAndPassword(login, password);
-        await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(response.Data));
 
-        return null;
-    }
+        if (response.IsSuccess)
+        {
+            await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(response.Data));
     
-    [Authorize(Roles="Administrator")]
-    [HttpGet]
-    public String wa123()
-    {
-        return "2";
+            return new Response(null);
+        }
+        else
+        {
+            return response;
+        }
     }
-
 }

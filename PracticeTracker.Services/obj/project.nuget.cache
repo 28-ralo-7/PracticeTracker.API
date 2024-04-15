@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "U9t583kOi38V4j74Pml4KFcMjvYQK4mIv8yjCYvYjSBjBH2BV3M2RzGF7MrfySDqvmG8jFsKSxEwiee+Qb2AAw==",
+  "dgSpecHash": "4SSMyMXJLY2YTYipXmtBv8+SPq6ip4XyN085XJ5VcANvgVky4118dTd+yKwYbJlFpx7xcnNVjVoKP7ccH4Ti9Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ДИ\\Desktop\\PracticeTracker.API\\PracticeTracker.Services\\PracticeTracker.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\ДИ\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+    "C:\\Users\\ДИ\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\ДИ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

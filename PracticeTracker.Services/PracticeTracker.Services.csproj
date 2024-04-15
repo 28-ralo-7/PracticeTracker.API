@@ -18,4 +18,10 @@
       <ProjectReference Include="..\PracticeTracker.Domain\PracticeTracker.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNetCore.Mvc.Core">
+        <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.15\Microsoft.AspNetCore.Mvc.Core.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>

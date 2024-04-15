@@ -51,9 +51,10 @@ C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\s
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\scopedcss\bundle\PracticeTracker.API.styles.css
-C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\PracticeTracker.API.csproj.CopyComplete
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\PracticeTracker.API.dll
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\refint\PracticeTracker.API.dll
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\PracticeTracker.API.pdb
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\PracticeTracker.API.genruntimeconfig.cache
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\ref\PracticeTracker.API.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\PracticeTracker.API.sourcelink.json
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.API\obj\Debug\net7.0\Practice.727CD412.Up2Date

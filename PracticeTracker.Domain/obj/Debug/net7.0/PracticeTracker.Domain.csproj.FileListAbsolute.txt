@@ -9,3 +9,4 @@ C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Domain\obj\Debug\net7.
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Domain\obj\Debug\net7.0\refint\PracticeTracker.Domain.dll
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Domain\obj\Debug\net7.0\PracticeTracker.Domain.pdb
 C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Domain\obj\Debug\net7.0\ref\PracticeTracker.Domain.dll
+C:\Users\ДИ\Desktop\PracticeTracker.API\PracticeTracker.Domain\obj\Debug\net7.0\PracticeTracker.Domain.sourcelink.json
